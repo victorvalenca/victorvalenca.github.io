@@ -1,6 +1,21 @@
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #232323;
+        color: #FEFEFE;
+    }
+    footer {
+        color: #d5d5d5;
+    }
+    a {
+        color: #d5d5d5;
+    }
+}
+
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: #FEFEFE;
+    color: #232323;
 }
 
 nav ul, footer ul {
@@ -17,7 +32,7 @@ nav ul li, footer ul li {
 
 a {
     text-decoration: none;
-    color: #999;
+    color: #232323;
 }
 
 a:hover {
@@ -32,11 +47,11 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #232323;
 }
 
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #232323;
     font-size: .8em;
 }
 
