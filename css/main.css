@@ -53,7 +53,7 @@ ul.posts li {
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #2b2b2b;
-        color: #FEFEFE;
+        color: #eeeeee;
     }
     footer {
         border-top: 1px solid #eeeeee;
