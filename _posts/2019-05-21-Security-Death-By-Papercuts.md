@@ -32,6 +32,7 @@ The workaround for accessing Slack is through a remote desktop instance via Citr
 I can access Slack now, and some of the project resources, but not all of it. That’s through something entirely different, it needs to be done over FortiClient’s VPN. We have a convenient wiki page describing the setup to get our laptops configured to use this program, and we only use it for VPN purposes.
 
 `The FortiClient also functions as an "Internet Security" and "Antivirus" scanner. The "Internet Security" part can be switched off, but the antivirus scanner not.`
+
 Oh boy.
 
 After yolo’ing the installation and getting my poor, fresh out of the box laptop ready for a beatdown, i set up the VPN access and went about my business.
