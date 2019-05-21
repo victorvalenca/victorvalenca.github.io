@@ -6,6 +6,9 @@ body {
     font-family: 'Segoe UI', 'Helvetica', 'Arial', 'Serif';
 }
 
+img {
+    width: 100%;
+}
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
