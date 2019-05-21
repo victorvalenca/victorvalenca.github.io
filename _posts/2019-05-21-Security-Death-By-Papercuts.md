@@ -14,7 +14,7 @@ I’m essentially responsible for kicking off the entire migration process, then
 
 This is a little beyond scope of this post, but what DOES fall into scope is the absolute hellscape and loopholes we have to go through to even have our laptops able to function in this project.
 
-# Exhibit 1: Slack
+## Exhibit 1: Slack
 TL;DR: Slack is blocked by IT. Through the OS. Accessing [https://slack.com](https://slack.com) gives an SSL error if we try to open it through work laptops.
 
 This wouldn’t be much of an issue as we don’t really use Slack internally (we instead use Skype for Business which is MUCH worse). However this project in particular has all teams communicate through Slack, we also got MacBooks to replace our windows laptops (We going full blown Silicon Valley meme startup up in here, now where’s my free starbucks coffee?). 
