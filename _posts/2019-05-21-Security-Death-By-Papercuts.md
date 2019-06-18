@@ -74,5 +74,5 @@ Thankfully I found that there IS a stand-alone VPN client so I yeeted the sucker
 And lastly:
 
 ![](/img/panic_at_the_kernel.png)
-￼
+
 I’ll let that one speak for itself.
